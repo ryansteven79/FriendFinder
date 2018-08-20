@@ -5,7 +5,8 @@ Friend Finder - Node and Express Servers
 # FriendFinder
 A fullstack match making application using the Express package for Node.js!
 
-Check out the deployed app on Heroku [here](https://ryansteven79-friendfinder.herokuapp.com/)!
+Check out the deployed app on Heroku [here](https://serene-mesa-60118.herokuapp.com/)!
+Check out the GitHub Repo [here](https://github.com/ryansteven79/FriendFinder)!
 
 This app uses Express to serve 2 static HTML files and 2 API routes to get and post data.
 
