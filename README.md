@@ -13,7 +13,7 @@ Note that data is not persistent, but rather stored in an object in `friends.js`
 
 # Instructions
 After cloning down the repo to your laptop, run `npm install` to download the Node dependencies.
-Then, be sure to serve the app in `localhost:8080` in your browser.
+Then, be sure to serve the app in `localhost:3000` in your browser.
 
 1. Your survey should have 10 questions of your choosing. Each answer should be on a scale of 1 to 5 based on how much the user agrees or disagrees with a question.
 
